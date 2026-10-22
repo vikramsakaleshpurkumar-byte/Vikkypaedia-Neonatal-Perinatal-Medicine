@@ -1,0 +1,1205 @@
+{
+  "reviewed": true,
+  "title": "Fanaroff and Martin’s Neonatal-Perinatal Medicine: Diseases of the Fetus and Infant",
+  "course_name": "Vikkypaedia · Neonatal–Perinatal Medicine",
+  "edition": "12th edition, two volumes",
+  "year": "Published 2024; publisher copyright year 2025",
+  "publisher": "Elsevier",
+  "authors": "Richard J. Martin and Avroy A. Fanaroff; associate editor Michele C. Walsh",
+  "subtitle": "A source-linked clinical learning library · 103 chapters and 2 reference appendices",
+  "chapters": [
+    {
+      "num": 1,
+      "source_label": "1",
+      "title": "Growth of Neonatal-Perinatal Medicine—A Historical Perspective",
+      "start": 21,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 38
+    },
+    {
+      "num": 2,
+      "source_label": "2",
+      "title": "Epidemiology for Neonatologists",
+      "start": 39,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 46
+    },
+    {
+      "num": 3,
+      "source_label": "3",
+      "title": "Big Data for the Smallest Patients—What We Can Learn From Neonatal Database Research",
+      "start": 47,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 57
+    },
+    {
+      "num": 4,
+      "source_label": "4",
+      "title": "Medical Ethics in Neonatal Care",
+      "start": 58,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 83
+    },
+    {
+      "num": 5,
+      "source_label": "5",
+      "title": "Improving the Quality, Safety, and Equity of Neonatal Intensive Care for Infants and Families",
+      "start": 84,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 118
+    },
+    {
+      "num": 6,
+      "source_label": "6",
+      "title": "Importance of Simulation in Neonatology",
+      "start": 119,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 126
+    },
+    {
+      "num": 7,
+      "source_label": "7",
+      "title": "Perinatal and Neonatal Care in Developing Countries",
+      "start": 127,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 149
+    },
+    {
+      "num": 8,
+      "source_label": "8",
+      "title": "Social and Economic Contributors to Neonatal Outcome in the United States",
+      "start": 150,
+      "group": "Foundations, ethics & systems",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 166
+    },
+    {
+      "num": 9,
+      "source_label": "9",
+      "title": "Genetic Aspects of Perinatal Disease and Prenatal Diagnosis",
+      "start": 167,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 187
+    },
+    {
+      "num": 10,
+      "source_label": "10",
+      "title": "Perinatal Ultrasound",
+      "start": 188,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 228
+    },
+    {
+      "num": 11,
+      "source_label": "11",
+      "title": "Estimation of Fetal Well-Being",
+      "start": 229,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 242
+    },
+    {
+      "num": 12,
+      "source_label": "12",
+      "title": "Surgical Treatment of the Fetus",
+      "start": 243,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 256
+    },
+    {
+      "num": 13,
+      "source_label": "13",
+      "title": "Adverse Exposures to the Fetus",
+      "start": 257,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 275
+    },
+    {
+      "num": 14,
+      "source_label": "14",
+      "title": "Fetal Growth Restriction-A Complex Interplay Between the Intrauterine and Maternal Environment",
+      "start": 276,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 290
+    },
+    {
+      "num": 15,
+      "source_label": "15",
+      "title": "Developmental Origins of Health and Disease",
+      "start": 291,
+      "group": "Fetal development & assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 304
+    },
+    {
+      "num": 16,
+      "source_label": "16",
+      "title": "Hypertensive Disorders of Pregnancy",
+      "start": 305,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 321
+    },
+    {
+      "num": 17,
+      "source_label": "17",
+      "title": "Pregnancy Complicated by Diabetes Mellitus",
+      "start": 322,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 332
+    },
+    {
+      "num": 18,
+      "source_label": "18",
+      "title": "Obstetric Management of Prematurity",
+      "start": 333,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 366
+    },
+    {
+      "num": 19,
+      "source_label": "19",
+      "title": "Fetal Effects of Autoimmune Disease",
+      "start": 367,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 375
+    },
+    {
+      "num": 20,
+      "source_label": "20",
+      "title": "Multiple Gestation-Fetal and Maternal Considerations",
+      "start": 376,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 387
+    },
+    {
+      "num": 21,
+      "source_label": "21",
+      "title": "Post-Term Pregnancy",
+      "start": 388,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 395
+    },
+    {
+      "num": 22,
+      "source_label": "22",
+      "title": "Immune and Nonimmune Hydrops Fetalis",
+      "start": 396,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 410
+    },
+    {
+      "num": 23,
+      "source_label": "23",
+      "title": "Amniotic Fluid Volume",
+      "start": 411,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 428
+    },
+    {
+      "num": 24,
+      "source_label": "24",
+      "title": "Perinatal Infections and Chorioamnionitis",
+      "start": 429,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 439
+    },
+    {
+      "num": 25,
+      "source_label": "25",
+      "title": "Placental Pathology",
+      "start": 440,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 447
+    },
+    {
+      "num": 26,
+      "source_label": "26",
+      "title": "Anesthesia for Labor and Delivery",
+      "start": 448,
+      "group": "Maternal and obstetric care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 466
+    },
+    {
+      "num": 27,
+      "source_label": "27",
+      "title": "Physical Examination of the Healthy Newborn",
+      "start": 467,
+      "group": "Newborn assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 488
+    },
+    {
+      "num": 28,
+      "source_label": "28",
+      "title": "Birth Injuries",
+      "start": 489,
+      "group": "Newborn assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 517
+    },
+    {
+      "num": 29,
+      "source_label": "29",
+      "title": "Congenital Anomalies",
+      "start": 518,
+      "group": "Newborn assessment",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 542
+    },
+    {
+      "num": 30,
+      "source_label": "30",
+      "title": "Overview and Initial Management of Delivery Room Resuscitation",
+      "start": 543,
+      "group": "Delivery-room transition",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 557
+    },
+    {
+      "num": 31,
+      "source_label": "31",
+      "title": "Role of Positive Pressure Ventilation in Neonatal Resuscitation",
+      "start": 558,
+      "group": "Delivery-room transition",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 571
+    },
+    {
+      "num": 32,
+      "source_label": "32",
+      "title": "Oxygen Therapy in Neonatal Resuscitation",
+      "start": 572,
+      "group": "Delivery-room transition",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 581
+    },
+    {
+      "num": 33,
+      "source_label": "33",
+      "title": "Chest Compression, Medications, and Special Problems in Neonatal Resuscitation",
+      "start": 582,
+      "group": "Delivery-room transition",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 594
+    },
+    {
+      "num": 34,
+      "source_label": "34",
+      "title": "Role of Umbilical Cord Management in Neonatal Resuscitation",
+      "start": 595,
+      "group": "Delivery-room transition",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 604
+    },
+    {
+      "num": 35,
+      "source_label": "35",
+      "title": "Thermal Environment of the Intensive Care Nursery",
+      "start": 605,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 614
+    },
+    {
+      "num": 36,
+      "source_label": "36",
+      "title": "Optimization of the Neonatal Intensive Care Unit Environment",
+      "start": 615,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 630
+    },
+    {
+      "num": 37,
+      "source_label": "37",
+      "title": "Neonatal Cardiorespiratory Monitoring",
+      "start": 631,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 642
+    },
+    {
+      "num": 38,
+      "source_label": "38",
+      "title": "Diagnostic Imaging of the Neonate",
+      "start": 643,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 673
+    },
+    {
+      "num": 39,
+      "source_label": "39",
+      "title": "Anesthesia in the Neonate",
+      "start": 674,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 695
+    },
+    {
+      "num": 40,
+      "source_label": "40",
+      "title": "Care of Periviable Micropreemies- The Japanese Perspective",
+      "start": 696,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 712
+    },
+    {
+      "num": 41,
+      "source_label": "41",
+      "title": "The Late Preterm Infant",
+      "start": 713,
+      "group": "NICU environment & monitoring",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 728
+    },
+    {
+      "num": 42,
+      "source_label": "42",
+      "title": "Nutritional Support for the Preterm Infant",
+      "start": 729,
+      "group": "Nutrition, family & palliative care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 747
+    },
+    {
+      "num": 43,
+      "source_label": "43",
+      "title": "Support for the Family",
+      "start": 748,
+      "group": "Nutrition, family & palliative care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 760
+    },
+    {
+      "num": 44,
+      "source_label": "44",
+      "title": "Perinatal Palliative Care",
+      "start": 761,
+      "group": "Nutrition, family & palliative care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 772
+    },
+    {
+      "num": 45,
+      "source_label": "45",
+      "title": "Principles of Drug Use in the Fetus and Neonate",
+      "start": 773,
+      "group": "Neonatal pharmacology",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 786
+    },
+    {
+      "num": 46,
+      "source_label": "46",
+      "title": "Principles of Drug Use During Lactation",
+      "start": 787,
+      "group": "Neonatal pharmacology",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 792
+    },
+    {
+      "num": 47,
+      "source_label": "47",
+      "title": "Pharmacokinetics in Neonatal Medicine",
+      "start": 793,
+      "group": "Neonatal pharmacology",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 808
+    },
+    {
+      "num": 48,
+      "source_label": "48",
+      "title": "Infants of Substance-Using Mothers",
+      "start": 809,
+      "group": "Neonatal pharmacology",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 824
+    },
+    {
+      "num": 49,
+      "source_label": "49",
+      "title": "Developmental Immunology",
+      "start": 825,
+      "group": "Immunity & infection",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 861
+    },
+    {
+      "num": 50,
+      "source_label": "50",
+      "title": "Postnatal Bacterial Infections",
+      "start": 862,
+      "group": "Immunity & infection",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 885
+    },
+    {
+      "num": 51,
+      "source_label": "51",
+      "title": "Fungal and Protozoal Infections of the Neonate",
+      "start": 886,
+      "group": "Immunity & infection",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 921
+    },
+    {
+      "num": 52,
+      "source_label": "52",
+      "title": "Viral Infections in the Neonate",
+      "start": 922,
+      "group": "Immunity & infection",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 983
+    },
+    {
+      "num": 53,
+      "source_label": "53",
+      "title": "Normal and Abnormal Brain Development",
+      "start": 984,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1014
+    },
+    {
+      "num": 54,
+      "source_label": "54",
+      "title": "Cerebral White Matter Damage and Encephalopathy of Prematurity",
+      "start": 1015,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1036
+    },
+    {
+      "num": 55,
+      "source_label": "55",
+      "title": "Intracranial Hemorrhage and Stroke in the Neonate",
+      "start": 1037,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1062
+    },
+    {
+      "num": 56,
+      "source_label": "56",
+      "title": "Hypoxic-Ischemic Encephalopathy",
+      "start": 1063,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1088
+    },
+    {
+      "num": 57,
+      "source_label": "57",
+      "title": "Seizures in Neonates",
+      "start": 1089,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1120
+    },
+    {
+      "num": 58,
+      "source_label": "58",
+      "title": "Hypotonia and Neuromuscular Disease in the Neonate",
+      "start": 1121,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1135
+    },
+    {
+      "num": 59,
+      "source_label": "59",
+      "title": "Disorders in Head Shape and Size",
+      "start": 1136,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1148
+    },
+    {
+      "num": 60,
+      "source_label": "60",
+      "title": "Spinal Dysraphisms",
+      "start": 1149,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1157
+    },
+    {
+      "num": 61,
+      "source_label": "61",
+      "title": "Hearing Loss in the Newborn Infant",
+      "start": 1158,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1168
+    },
+    {
+      "num": 62,
+      "source_label": "62",
+      "title": "Early Childhood Neurodevelopmental Outcomes of High-Risk Neonates",
+      "start": 1169,
+      "group": "Brain, neurology & development",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1191
+    },
+    {
+      "num": 63,
+      "source_label": "63",
+      "title": "Lung Development and Maturation",
+      "start": 1192,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1211
+    },
+    {
+      "num": 64,
+      "source_label": "64",
+      "title": "Assessment of Neonatal Pulmonary Function",
+      "start": 1212,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1227
+    },
+    {
+      "num": 65,
+      "source_label": "65",
+      "title": "Respiratory Distress Syndrome in the Neonate",
+      "start": 1228,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1241
+    },
+    {
+      "num": 66,
+      "source_label": "66",
+      "title": "Assisted Ventilation and Its Complications",
+      "start": 1242,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1272
+    },
+    {
+      "num": 67,
+      "source_label": "67",
+      "title": "Spectrum of Neonatal Respiratory Disorders",
+      "start": 1273,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1305
+    },
+    {
+      "num": 68,
+      "source_label": "68",
+      "title": "Apnea, Bradycardia, Hypoxemia, and the Foundation of Respiratory Control",
+      "start": 1306,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1318
+    },
+    {
+      "num": 69,
+      "source_label": "69",
+      "title": "Upper Airway Lesions in the Neonate",
+      "start": 1319,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1331
+    },
+    {
+      "num": 70,
+      "source_label": "70",
+      "title": "Bronchopulmonary Dysplasia in the Neonate",
+      "start": 1332,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1347
+    },
+    {
+      "num": 71,
+      "source_label": "71",
+      "title": "Postneonatal Respiratory Morbidity",
+      "start": 1348,
+      "group": "Lung development & respiratory care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1357
+    },
+    {
+      "num": 72,
+      "source_label": "72",
+      "title": "Cardiac Embryology",
+      "start": 1358,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1371
+    },
+    {
+      "num": 73,
+      "source_label": "73",
+      "title": "Pulmonary Vascular Development",
+      "start": 1372,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1386
+    },
+    {
+      "num": 74,
+      "source_label": "74",
+      "title": "Prenatal Diagnosis of Congenital Heart Disease",
+      "start": 1387,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1400
+    },
+    {
+      "num": 75,
+      "source_label": "75",
+      "title": "Patent Ductus Arteriosus",
+      "start": 1401,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1410
+    },
+    {
+      "num": 76,
+      "source_label": "76",
+      "title": "Congenital Defects of the Cardiovascular System",
+      "start": 1411,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1432
+    },
+    {
+      "num": 77,
+      "source_label": "77",
+      "title": "Unique Neonatal Cardiovascular Problems",
+      "start": 1433,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1451
+    },
+    {
+      "num": 78,
+      "source_label": "78",
+      "title": "Disorders of Cardiac Rhythm and Conduction in Newborns",
+      "start": 1452,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1469
+    },
+    {
+      "num": 79,
+      "source_label": "79",
+      "title": "Neonatal Management of Congenital Heart Disease",
+      "start": 1470,
+      "group": "Cardiovascular care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1498
+    },
+    {
+      "num": 80,
+      "source_label": "80",
+      "title": "The Hemostatic System",
+      "start": 1499,
+      "group": "Hematology & transfusion",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1518
+    },
+    {
+      "num": 81,
+      "source_label": "81",
+      "title": "Red Blood Cell Disorders in the Fetus and Neonate",
+      "start": 1519,
+      "group": "Hematology & transfusion",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1551
+    },
+    {
+      "num": 82,
+      "source_label": "82",
+      "title": "White Blood Cells and Immune Disorders",
+      "start": 1552,
+      "group": "Hematology & transfusion",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1564
+    },
+    {
+      "num": 83,
+      "source_label": "83",
+      "title": "Neoplasms in the Neonate",
+      "start": 1565,
+      "group": "Hematology & transfusion",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1570
+    },
+    {
+      "num": 84,
+      "source_label": "84",
+      "title": "Blood Component Therapy for the Neonate",
+      "start": 1571,
+      "group": "Hematology & transfusion",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1595
+    },
+    {
+      "num": 85,
+      "source_label": "85",
+      "title": "Development of the Neonatal Gastrointestinal Tract",
+      "start": 1596,
+      "group": "Gastrointestinal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1602
+    },
+    {
+      "num": 86,
+      "source_label": "86",
+      "title": "Gastrointestinal Reflux and Motility in the Neonate",
+      "start": 1603,
+      "group": "Gastrointestinal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1612
+    },
+    {
+      "num": 87,
+      "source_label": "87",
+      "title": "Disorders of Digestion in the Neonate",
+      "start": 1613,
+      "group": "Gastrointestinal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1623
+    },
+    {
+      "num": 88,
+      "source_label": "88",
+      "title": "Selected Gastrointestinal Anomalies in the Neonate",
+      "start": 1624,
+      "group": "Gastrointestinal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1650
+    },
+    {
+      "num": 89,
+      "source_label": "89",
+      "title": "Neonatal Necrotizing Enterocolitis",
+      "start": 1651,
+      "group": "Gastrointestinal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1667
+    },
+    {
+      "num": 90,
+      "source_label": "90",
+      "title": "Disorders of Carbohydrate Metabolism in the Neonate",
+      "start": 1668,
+      "group": "Metabolism, endocrinology & liver",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1692
+    },
+    {
+      "num": 91,
+      "source_label": "91",
+      "title": "Disorders of Calcium, Phosphorus, and Magnesium Metabolism in the Neonate",
+      "start": 1693,
+      "group": "Metabolism, endocrinology & liver",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1723
+    },
+    {
+      "num": 92,
+      "source_label": "92",
+      "title": "Thyroid Disorders in the Neonate",
+      "start": 1724,
+      "group": "Metabolism, endocrinology & liver",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1745
+    },
+    {
+      "num": 93,
+      "source_label": "93",
+      "title": "Disorders of Sex Development",
+      "start": 1746,
+      "group": "Metabolism, endocrinology & liver",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1785
+    },
+    {
+      "num": 94,
+      "source_label": "94",
+      "title": "Inborn Errors of Metabolism",
+      "start": 1786,
+      "group": "Metabolism, endocrinology & liver",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1868
+    },
+    {
+      "num": 95,
+      "source_label": "95",
+      "title": "Neonatal Jaundice and Liver Disease",
+      "start": 1869,
+      "group": "Metabolism, endocrinology & liver",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1941
+    },
+    {
+      "num": 96,
+      "source_label": "96",
+      "title": "Fluid, Electrolytes, and Acid-Base Homeostasis",
+      "start": 1942,
+      "group": "Fluid, kidney & acid–base",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1959
+    },
+    {
+      "num": 97,
+      "source_label": "97",
+      "title": "The Kidney and Urinary Tract of the Neonate",
+      "start": 1960,
+      "group": "Fluid, kidney & acid–base",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 1983
+    },
+    {
+      "num": 98,
+      "source_label": "98",
+      "title": "The Skin of the Neonate",
+      "start": 1984,
+      "group": "Skin & eye care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2018
+    },
+    {
+      "num": 99,
+      "source_label": "99",
+      "title": "Examination and Common Problems in the Neonatal Eye",
+      "start": 2019,
+      "group": "Skin & eye care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2054
+    },
+    {
+      "num": 100,
+      "source_label": "100",
+      "title": "Retinopathy of Prematurity",
+      "start": 2055,
+      "group": "Skin & eye care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2063
+    },
+    {
+      "num": 101,
+      "source_label": "101",
+      "title": "Musculoskeletal Disorders in Neonates",
+      "start": 2064,
+      "group": "Musculoskeletal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2071
+    },
+    {
+      "num": 102,
+      "source_label": "102",
+      "title": "Bone and Joint Infections in Neonates",
+      "start": 2072,
+      "group": "Musculoskeletal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2077
+    },
+    {
+      "num": 103,
+      "source_label": "103",
+      "title": "Congenital Abnormalities of the Upper and Lower Extremities and Spine",
+      "start": 2078,
+      "group": "Musculoskeletal care",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2098
+    },
+    {
+      "num": 104,
+      "source_label": "Appendix A",
+      "title": "Therapeutic Agents",
+      "start": 2099,
+      "group": "Reference appendices",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2107
+    },
+    {
+      "num": 105,
+      "source_label": "Appendix B",
+      "title": "Tables of Normal Values",
+      "start": 2108,
+      "group": "Reference appendices",
+      "columns": 2,
+      "column_split": 0.515,
+      "end": 2156
+    }
+  ],
+  "omitted_pages": [
+    {
+      "start": 1,
+      "end": 20,
+      "reason": "Cover, dedication, contributors and preface; bibliographic attribution retained in source credits."
+    }
+  ],
+  "glyph_map": {},
+  "features": [
+    {
+      "label": "Prematurity",
+      "pattern": "preterm|prematur"
+    },
+    {
+      "label": "Growth restriction",
+      "pattern": "growth restrict|small.for.gestational"
+    },
+    {
+      "label": "Congenital anomaly",
+      "pattern": "congenital anomal|malformation"
+    },
+    {
+      "label": "Respiratory distress",
+      "pattern": "respiratory distress|tachypn"
+    },
+    {
+      "label": "Apnea",
+      "pattern": "apn[eo]a"
+    },
+    {
+      "label": "Hypoxemia / cyanosis",
+      "pattern": "hypox[ae]m|cyanosis"
+    },
+    {
+      "label": "Pulmonary hypertension",
+      "pattern": "pulmonary hypertens"
+    },
+    {
+      "label": "Cardiac shunting",
+      "pattern": "ductus|shunt"
+    },
+    {
+      "label": "Shock / perfusion",
+      "pattern": "hypoperfus|shock|hypotens"
+    },
+    {
+      "label": "Arrhythmia",
+      "pattern": "arrhythmi|tachycardi|bradycardi"
+    },
+    {
+      "label": "Infection / inflammation",
+      "pattern": "sepsis|infection|inflamm"
+    },
+    {
+      "label": "Immune dysfunction",
+      "pattern": "immunodefic|immune disorder"
+    },
+    {
+      "label": "Jaundice / cholestasis",
+      "pattern": "jaundice|cholestas|bilirubin"
+    },
+    {
+      "label": "Anemia / polycythemia",
+      "pattern": "anemi|anaemi|polycyth"
+    },
+    {
+      "label": "Bleeding / thrombosis",
+      "pattern": "hemorrhag|haemorrhag|thrombosis|bleeding"
+    },
+    {
+      "label": "Seizures",
+      "pattern": "seizure|epilep"
+    },
+    {
+      "label": "Encephalopathy",
+      "pattern": "encephalopath"
+    },
+    {
+      "label": "Hypotonia",
+      "pattern": "hypotoni"
+    },
+    {
+      "label": "Developmental follow-up",
+      "pattern": "neurodevelopment|follow.up"
+    },
+    {
+      "label": "Feeding difficulty",
+      "pattern": "feeding|dysphagi"
+    },
+    {
+      "label": "Abdominal distension",
+      "pattern": "abdominal disten|bowel obstruct"
+    },
+    {
+      "label": "Intestinal injury",
+      "pattern": "necrotizing|intestinal perfor"
+    },
+    {
+      "label": "Glucose disturbance",
+      "pattern": "hypoglyc|hyperglyc|glucose"
+    },
+    {
+      "label": "Electrolyte / acid–base",
+      "pattern": "electrolyt|acidosis|alkalosis"
+    },
+    {
+      "label": "Renal dysfunction",
+      "pattern": "renal failure|kidney injur|oliguri"
+    },
+    {
+      "label": "Endocrine disorder",
+      "pattern": "thyroid|adrenal|endocrin"
+    },
+    {
+      "label": "Skin findings",
+      "pattern": "skin|cutaneous|rash"
+    },
+    {
+      "label": "Eye / hearing",
+      "pattern": "retinopath|ophthalm|hearing"
+    },
+    {
+      "label": "Bone / joint",
+      "pattern": "skeletal|bone|joint"
+    },
+    {
+      "label": "Maternal / placental factors",
+      "pattern": "maternal|placenta"
+    },
+    {
+      "label": "Care systems / equity",
+      "pattern": "quality improv|equity|disparit|ethic"
+    },
+    {
+      "label": "Family / comfort",
+      "pattern": "palliative|family|comfort"
+    }
+  ],
+  "header_fraction": 0.05,
+  "footer_fraction": 0.04,
+  "permissions_note": "Prepared for the owner’s personal study from the supplied PDF. The source bears personal-use restrictions and Elsevier copyright notices. No publication or redistribution permission is inferred. Source clinical content reflects this edition, not an independent current-guideline review.",
+  "publisher_reference_url": "https://www.us.elsevierhealth.com/fanaroff-and-martins-neonatal-perinatal-medicine-2-volume-set-9780323932660.html",
+  "file_coverage_note": "Supplied PDF contains 2156 pages and all 103 numbered chapters plus Appendices A/B. Publisher lists 2352 print pages; print count and PDF length are not interchangeable. Front matter/index completeness outside the supplied file is not asserted."
+}

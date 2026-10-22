@@ -1,0 +1,16 @@
+{
+  "chapters": 32,
+  "cards": 192,
+  "authored_mcqs": 160,
+  "learning_units": 160,
+  "cases": 6,
+  "case_stages": 18,
+  "case_chapters": [
+    50,
+    56,
+    57,
+    65,
+    66,
+    68
+  ]
+}

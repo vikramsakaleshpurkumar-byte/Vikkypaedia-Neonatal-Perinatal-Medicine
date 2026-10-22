@@ -1,0 +1,1262 @@
+[
+  {
+    "num": 1,
+    "title": "Growth of Neonatal-Perinatal Medicine—A Historical Perspective",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 2,
+    "title": "Epidemiology for Neonatologists",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 3,
+    "title": "Big Data for the Smallest Patients—What We Can Learn From Neonatal Database Research",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 4,
+    "title": "Medical Ethics in Neonatal Care",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 5,
+    "title": "Improving the Quality, Safety, and Equity of Neonatal Intensive Care for Infants and Families",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 6,
+    "title": "Importance of Simulation in Neonatology",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 7,
+    "title": "Perinatal and Neonatal Care in Developing Countries",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 8,
+    "title": "Social and Economic Contributors to Neonatal Outcome in the United States",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 9,
+    "title": "Genetic Aspects of Perinatal Disease and Prenatal Diagnosis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 10,
+    "title": "Perinatal Ultrasound",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 11,
+    "title": "Estimation of Fetal Well-Being",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 12,
+    "title": "Surgical Treatment of the Fetus",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 13,
+    "title": "Adverse Exposures to the Fetus",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 14,
+    "title": "Fetal Growth Restriction-A Complex Interplay Between the Intrauterine and Maternal Environment",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 15,
+    "title": "Developmental Origins of Health and Disease",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 16,
+    "title": "Hypertensive Disorders of Pregnancy",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 17,
+    "title": "Pregnancy Complicated by Diabetes Mellitus",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 18,
+    "title": "Obstetric Management of Prematurity",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 19,
+    "title": "Fetal Effects of Autoimmune Disease",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 20,
+    "title": "Multiple Gestation-Fetal and Maternal Considerations",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 21,
+    "title": "Post-Term Pregnancy",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 22,
+    "title": "Immune and Nonimmune Hydrops Fetalis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 23,
+    "title": "Amniotic Fluid Volume",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 24,
+    "title": "Perinatal Infections and Chorioamnionitis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 25,
+    "title": "Placental Pathology",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 26,
+    "title": "Anesthesia for Labor and Delivery",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 27,
+    "title": "Physical Examination of the Healthy Newborn",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 28,
+    "title": "Birth Injuries",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 29,
+    "title": "Congenital Anomalies",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 30,
+    "title": "Overview and Initial Management of Delivery Room Resuscitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 31,
+    "title": "Role of Positive Pressure Ventilation in Neonatal Resuscitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 32,
+    "title": "Oxygen Therapy in Neonatal Resuscitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 33,
+    "title": "Chest Compression, Medications, and Special Problems in Neonatal Resuscitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 34,
+    "title": "Role of Umbilical Cord Management in Neonatal Resuscitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 35,
+    "title": "Thermal Environment of the Intensive Care Nursery",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 36,
+    "title": "Optimization of the Neonatal Intensive Care Unit Environment",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 37,
+    "title": "Neonatal Cardiorespiratory Monitoring",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 38,
+    "title": "Diagnostic Imaging of the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 39,
+    "title": "Anesthesia in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 40,
+    "title": "Care of Periviable Micropreemies- The Japanese Perspective",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 41,
+    "title": "The Late Preterm Infant",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 42,
+    "title": "Nutritional Support for the Preterm Infant",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 43,
+    "title": "Support for the Family",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 44,
+    "title": "Perinatal Palliative Care",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 45,
+    "title": "Principles of Drug Use in the Fetus and Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 46,
+    "title": "Principles of Drug Use During Lactation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 47,
+    "title": "Pharmacokinetics in Neonatal Medicine",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 48,
+    "title": "Infants of Substance-Using Mothers",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 49,
+    "title": "Developmental Immunology",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 50,
+    "title": "Postnatal Bacterial Infections",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 51,
+    "title": "Fungal and Protozoal Infections of the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 52,
+    "title": "Viral Infections in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 53,
+    "title": "Normal and Abnormal Brain Development",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 54,
+    "title": "Cerebral White Matter Damage and Encephalopathy of Prematurity",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 55,
+    "title": "Intracranial Hemorrhage and Stroke in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 56,
+    "title": "Hypoxic-Ischemic Encephalopathy",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 57,
+    "title": "Seizures in Neonates",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 58,
+    "title": "Hypotonia and Neuromuscular Disease in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 59,
+    "title": "Disorders in Head Shape and Size",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 60,
+    "title": "Spinal Dysraphisms",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 61,
+    "title": "Hearing Loss in the Newborn Infant",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 62,
+    "title": "Early Childhood Neurodevelopmental Outcomes of High-Risk Neonates",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 63,
+    "title": "Lung Development and Maturation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 64,
+    "title": "Assessment of Neonatal Pulmonary Function",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 65,
+    "title": "Respiratory Distress Syndrome in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 66,
+    "title": "Assisted Ventilation and Its Complications",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 67,
+    "title": "Spectrum of Neonatal Respiratory Disorders",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 68,
+    "title": "Apnea, Bradycardia, Hypoxemia, and the Foundation of Respiratory Control",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 69,
+    "title": "Upper Airway Lesions in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 70,
+    "title": "Bronchopulmonary Dysplasia in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 71,
+    "title": "Postneonatal Respiratory Morbidity",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 72,
+    "title": "Cardiac Embryology",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 73,
+    "title": "Pulmonary Vascular Development",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 74,
+    "title": "Prenatal Diagnosis of Congenital Heart Disease",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 75,
+    "title": "Patent Ductus Arteriosus",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 76,
+    "title": "Congenital Defects of the Cardiovascular System",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 77,
+    "title": "Unique Neonatal Cardiovascular Problems",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 78,
+    "title": "Disorders of Cardiac Rhythm and Conduction in Newborns",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 79,
+    "title": "Neonatal Management of Congenital Heart Disease",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 80,
+    "title": "The Hemostatic System",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 81,
+    "title": "Red Blood Cell Disorders in the Fetus and Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 82,
+    "title": "White Blood Cells and Immune Disorders",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 83,
+    "title": "Neoplasms in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 84,
+    "title": "Blood Component Therapy for the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 85,
+    "title": "Development of the Neonatal Gastrointestinal Tract",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 86,
+    "title": "Gastrointestinal Reflux and Motility in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 87,
+    "title": "Disorders of Digestion in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 88,
+    "title": "Selected Gastrointestinal Anomalies in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 89,
+    "title": "Neonatal Necrotizing Enterocolitis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 90,
+    "title": "Disorders of Carbohydrate Metabolism in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 91,
+    "title": "Disorders of Calcium, Phosphorus, and Magnesium Metabolism in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 92,
+    "title": "Thyroid Disorders in the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 93,
+    "title": "Disorders of Sex Development",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 94,
+    "title": "Inborn Errors of Metabolism",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 95,
+    "title": "Neonatal Jaundice and Liver Disease",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 96,
+    "title": "Fluid, Electrolytes, and Acid-Base Homeostasis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 97,
+    "title": "The Kidney and Urinary Tract of the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 98,
+    "title": "The Skin of the Neonate",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 99,
+    "title": "Examination and Common Problems in the Neonatal Eye",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 100,
+    "title": "Retinopathy of Prematurity",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 101,
+    "title": "Musculoskeletal Disorders in Neonates",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 102,
+    "title": "Bone and Joint Infections in Neonates",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 103,
+    "title": "Congenital Abnormalities of the Upper and Lower Extremities and Spine",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 104,
+    "title": "Therapeutic Agents",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 105,
+    "title": "Tables of Normal Values",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  }
+]

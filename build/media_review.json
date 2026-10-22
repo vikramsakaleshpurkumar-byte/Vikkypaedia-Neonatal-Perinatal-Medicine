@@ -1,0 +1,9 @@
+{
+  "raster_image_placements": 1153,
+  "vector_diagram_renders": 318,
+  "caption_matches_repaired": 230,
+  "caption_blocks_detected": 947,
+  "unmatched_caption_placements": 134,
+  "original_page_views": 1095,
+  "review_note": "Caption association and vector bounds are automatic. Source page views retain complete originals; not every figure crop was manually inspected."
+}

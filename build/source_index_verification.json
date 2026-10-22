@@ -1,0 +1,12 @@
+{
+  "page_count_equal": true,
+  "content_stream_hash_matches_on_pdf_pages": [
+    2,
+    21,
+    543,
+    1192,
+    1693,
+    2156
+  ],
+  "method": "Independent pypdf comparison of original and consolidated-index working copy"
+}

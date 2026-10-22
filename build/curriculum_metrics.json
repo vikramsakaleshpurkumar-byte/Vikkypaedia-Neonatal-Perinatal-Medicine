@@ -1,0 +1,500 @@
+{
+  "modules": 105,
+  "outcomes": 525,
+  "all_outcomes_mapped_to_authored_items": true,
+  "progressive_cases": 22,
+  "case_decisions": 66,
+  "clinical_review": "Selected teaching passages model-source-checked; no independent specialist review",
+  "missing_modules": [],
+  "levels": {
+    "Essentials": 94,
+    "Clinical Application": 380,
+    "Deep Dive": 51
+  },
+  "unavailable_levels": [
+    {
+      "num": 1,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 2,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 3,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 5,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 6,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 7,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 9,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 10,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 11,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 12,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 14,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 16,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 17,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 18,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 19,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 20,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 21,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 24,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 25,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 26,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 27,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 28,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 30,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 31,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 33,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 34,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 36,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 37,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 38,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 39,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 40,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 41,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 43,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 44,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 47,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 48,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 50,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 51,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 52,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 54,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 55,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 56,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 57,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 58,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 60,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 61,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 62,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 64,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 65,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 67,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 69,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 71,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 72,
+      "unavailable_levels": [
+        "Clinical Application"
+      ]
+    },
+    {
+      "num": 74,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 76,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 77,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 78,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 79,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 80,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 82,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 85,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 87,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 88,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 89,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 91,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 92,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 93,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 94,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 95,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 97,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 98,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 99,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 100,
+      "unavailable_levels": [
+        "Essentials"
+      ]
+    },
+    {
+      "num": 101,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 102,
+      "unavailable_levels": [
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 103,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 104,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    },
+    {
+      "num": 105,
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ]
+    }
+  ]
+}

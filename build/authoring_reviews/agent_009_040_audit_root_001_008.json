@@ -1,0 +1,1024 @@
+{
+  "review_date": "2026-10-21",
+  "review_role": "Independent model cross-check by chapter9–40 author; not specialist review",
+  "scope": {
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "authored_mcqs": 40,
+    "flashcards": 48,
+    "cases": 3,
+    "case_stages": 9
+  },
+  "methods": [
+    "Read authored stems, options, rationales, direct-card wording and staged case information",
+    "Compared cited evidence paragraphs and raw page-marked text",
+    "Recalculated simple percentages and checked threshold direction",
+    "Rendered and visually inspected PDF40 Table2.4 for live-birth definition",
+    "Checked cognitive demand against depth labels and staging for future-information leakage",
+    "Isolated import assertions checked counts, unique options, answer-note alignment and chapter page bounds"
+  ],
+  "substantive_findings": [
+    {
+      "chapter": 1,
+      "items": [
+        "MCQ1 option notes Virginia Apgar/William Silverman",
+        "MCQ2 option notes Hess-Lundeen/Apgar/Silverman"
+      ],
+      "issue": "Distractor explanatory facts were correct but their original PDF21 citation did not contain each historical biography.",
+      "action": "Added exact note-page overrides25,27,32 in batch_001_004.py, preserving deterministic option alignment.",
+      "status": "corrected"
+    },
+    {
+      "chapter": 3,
+      "item": "O003-5",
+      "issue": "A basic applied consistency-of-measure question was labeled Deep Dive.",
+      "action": "Reclassified as Clinical Application.",
+      "status": "corrected"
+    },
+    {
+      "chapter": 5,
+      "item": "O005-5",
+      "issue": "A straightforward comparability decision was labeled Deep Dive.",
+      "action": "Reclassified as Clinical Application.",
+      "status": "corrected"
+    }
+  ],
+  "chapter_observations": {
+    "1": "Historical attribution,1960 quote in raw PDF21, ACTH placebo comparison and oxygen-retinopathy lesson supported. Historical distractor biographies needed separate page citations.",
+    "2": "Risk differences recalculated:0.1 and10 percentage points; RR2 for both. Live-birth wording checked in rendered PDF40 Table2.4, including heartbeat without breathing and no cord-cutting prerequisite.",
+    "3": "Structured/unstructured examples, data validation, ascertainment-bias example, rare-outcome research and network measures supported. Measure-consistency task is application rather than Deep Dive.",
+    "4": "Trust, benefits/burdens, shared and personalized decisions, emotional deliberation and physiologic-versus-value definitions of viability supported.",
+    "5": "Donabedian, Model for Improvement, balancing growth measure, shared baselines and stable definitions supported. Comparing differing case definitions is application rather than Deep Dive.",
+    "6": "Simulation practice, competence versus time, debriefing versus briefing/feedback, in-situ threats and low-fidelity HBB supported.",
+    "7": "Packages of care, hypothermia below36.5C, heat-loss practices, clinical-sign sepsis assessment and complementary prematurity care supported. Scalability/coverage consolidation supported.",
+    "8": "Mortality windows, social determinants, social framing of race, preconception care and practical urban/rural access barriers supported."
+  },
+  "item_records": [
+    {
+      "chapter": 1,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 21,
+      "option_note_pages": [
+        25,
+        21,
+        21,
+        32
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 1,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 21,
+      "option_note_pages": [
+        25,
+        21,
+        27,
+        32
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 1,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 32,
+      "option_note_pages": [
+        32,
+        32,
+        32,
+        32
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 1,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 32,
+      "option_note_pages": [
+        32,
+        32,
+        32,
+        32
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 1,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 28,
+      "option_note_pages": [
+        28,
+        28,
+        28,
+        28
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 1,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 21,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 1,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 21,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 1,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 32,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 1,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 32,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 1,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 28,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 1,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 32,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 2,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 39,
+      "option_note_pages": [
+        39,
+        39,
+        39,
+        39
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 2,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 39,
+      "option_note_pages": [
+        39,
+        39,
+        39,
+        39
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 2,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 39,
+      "option_note_pages": [
+        39,
+        39,
+        39,
+        39
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 2,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 40,
+      "option_note_pages": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 2,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 39,
+      "option_note_pages": [
+        39,
+        39,
+        39,
+        39
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 2,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 39,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 2,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 39,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 2,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 39,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 2,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 40,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 2,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 39,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 2,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 39,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 3,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 47,
+      "option_note_pages": [
+        47,
+        47,
+        47,
+        47
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 3,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 47,
+      "option_note_pages": [
+        47,
+        47,
+        47,
+        47
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 3,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 50,
+      "option_note_pages": [
+        50,
+        50,
+        50,
+        50
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 3,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 49,
+      "option_note_pages": [
+        49,
+        49,
+        49,
+        49
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 3,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 50,
+      "option_note_pages": [
+        50,
+        50,
+        50,
+        50
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 3,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 47,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 3,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 47,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 3,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 50,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 3,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 49,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 3,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 50,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 3,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 47,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 4,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 58,
+      "option_note_pages": [
+        58,
+        58,
+        58,
+        58
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 4,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 62,
+      "option_note_pages": [
+        62,
+        62,
+        62,
+        62
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 4,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 62,
+      "option_note_pages": [
+        62,
+        62,
+        62,
+        62
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 4,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 66,
+      "option_note_pages": [
+        66,
+        66,
+        66,
+        66
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Deep Dive"
+    },
+    {
+      "chapter": 4,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 58,
+      "option_note_pages": [
+        58,
+        58,
+        58,
+        58
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 4,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 58,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 4,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 62,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 4,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 62,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 4,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 66,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 4,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 58,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 4,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 62,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 5,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 90,
+      "option_note_pages": [
+        90,
+        90,
+        90,
+        90
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 5,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 90,
+      "option_note_pages": [
+        90,
+        90,
+        90,
+        90
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 5,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 94,
+      "option_note_pages": [
+        94,
+        94,
+        94,
+        94
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 5,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 91,
+      "option_note_pages": [
+        91,
+        91,
+        91,
+        91
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 5,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 92,
+      "option_note_pages": [
+        92,
+        92,
+        92,
+        92
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 5,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 90,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 5,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 90,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 5,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 94,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 5,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 91,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 5,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 92,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 5,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 84,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 6,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 119,
+      "option_note_pages": [
+        119,
+        119,
+        119,
+        119
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 6,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 119,
+      "option_note_pages": [
+        119,
+        119,
+        119,
+        119
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 6,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 122,
+      "option_note_pages": [
+        122,
+        122,
+        122,
+        122
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 6,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 123,
+      "option_note_pages": [
+        123,
+        123,
+        123,
+        123
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 6,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 122,
+      "option_note_pages": [
+        122,
+        122,
+        122,
+        122
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 6,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 119,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 6,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 119,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 6,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 122,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 6,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 123,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 6,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 122,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 6,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 119,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 7,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 127,
+      "option_note_pages": [
+        127,
+        127,
+        127,
+        127
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 7,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 137,
+      "option_note_pages": [
+        137,
+        137,
+        137,
+        137
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 7,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 138,
+      "option_note_pages": [
+        138,
+        138,
+        138,
+        138
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 7,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 138,
+      "option_note_pages": [
+        138,
+        138,
+        138,
+        138
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 7,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 135,
+      "option_note_pages": [
+        135,
+        135,
+        135,
+        135
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 7,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 127,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 7,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 137,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 7,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 138,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 7,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 138,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 7,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 135,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 7,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 139,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 8,
+      "kind": "Authored MCQ",
+      "ordinal": 1,
+      "pdf_page": 150,
+      "option_note_pages": [
+        150,
+        150,
+        150,
+        150
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 8,
+      "kind": "Authored MCQ",
+      "ordinal": 2,
+      "pdf_page": 159,
+      "option_note_pages": [
+        159,
+        159,
+        159,
+        159
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Essentials"
+    },
+    {
+      "chapter": 8,
+      "kind": "Authored MCQ",
+      "ordinal": 3,
+      "pdf_page": 159,
+      "option_note_pages": [
+        159,
+        159,
+        159,
+        159
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Deep Dive"
+    },
+    {
+      "chapter": 8,
+      "kind": "Authored MCQ",
+      "ordinal": 4,
+      "pdf_page": 161,
+      "option_note_pages": [
+        161,
+        161,
+        161,
+        161
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 8,
+      "kind": "Authored MCQ",
+      "ordinal": 5,
+      "pdf_page": 161,
+      "option_note_pages": [
+        161,
+        161,
+        161,
+        161
+      ],
+      "finding": "source-supported single best answer; no competing correct option identified",
+      "level": "Clinical Application"
+    },
+    {
+      "chapter": 8,
+      "kind": "Flashcard",
+      "ordinal": 1,
+      "pdf_page": 150,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 8,
+      "kind": "Flashcard",
+      "ordinal": 2,
+      "pdf_page": 159,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 8,
+      "kind": "Flashcard",
+      "ordinal": 3,
+      "pdf_page": 159,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 8,
+      "kind": "Flashcard",
+      "ordinal": 4,
+      "pdf_page": 161,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 8,
+      "kind": "Flashcard",
+      "ordinal": 5,
+      "pdf_page": 161,
+      "finding": "question and answer supported by cited evidence"
+    },
+    {
+      "chapter": 8,
+      "kind": "Flashcard",
+      "ordinal": 6,
+      "pdf_page": 150,
+      "finding": "question and answer supported by cited evidence"
+    }
+  ],
+  "case_records": [
+    {
+      "id": "case-003",
+      "stage": 1,
+      "pdf_page": 50,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-003",
+      "stage": 2,
+      "pdf_page": 47,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-003",
+      "stage": 3,
+      "pdf_page": 50,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-004",
+      "stage": 1,
+      "pdf_page": 58,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-004",
+      "stage": 2,
+      "pdf_page": 62,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-004",
+      "stage": 3,
+      "pdf_page": 62,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-005",
+      "stage": 1,
+      "pdf_page": 90,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-005",
+      "stage": 2,
+      "pdf_page": 94,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    },
+    {
+      "id": "case-005",
+      "stage": 3,
+      "pdf_page": 91,
+      "finding": "coherent fictional staging; required information precedes decision; correct choice and feedback supported"
+    }
+  ],
+  "unresolved_substantive_errors": [],
+  "limitations": [
+    "This is source-edition model review, not independent clinical-specialist review or validation of assessment psychometrics.",
+    "Several distractors are explicitly incorrect/absolute alternatives; no answer ambiguity was found, but item difficulty/discrimination has not been tested with learners.",
+    "No external guideline-update audit was performed."
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "verified_labels": 2130,
+  "discontinuities": [
+    {
+      "before_pdf_page": 166,
+      "after_pdf_page": 167,
+      "printed_before": 147,
+      "printed_after": 150,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 9
+    },
+    {
+      "before_pdf_page": 304,
+      "after_pdf_page": 305,
+      "printed_before": 287,
+      "printed_after": 290,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 16
+    },
+    {
+      "before_pdf_page": 447,
+      "after_pdf_page": 448,
+      "printed_before": 432,
+      "printed_after": 434,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 26
+    },
+    {
+      "before_pdf_page": 542,
+      "after_pdf_page": 543,
+      "printed_before": 528,
+      "printed_after": 530,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 30
+    },
+    {
+      "before_pdf_page": 604,
+      "after_pdf_page": 605,
+      "printed_before": 591,
+      "printed_after": 594,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 35
+    },
+    {
+      "before_pdf_page": 630,
+      "after_pdf_page": 631,
+      "printed_before": 619,
+      "printed_after": 622,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 37
+    },
+    {
+      "before_pdf_page": 772,
+      "after_pdf_page": 773,
+      "printed_before": 763,
+      "printed_after": 766,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 45
+    },
+    {
+      "before_pdf_page": 824,
+      "after_pdf_page": 825,
+      "printed_before": 817,
+      "printed_after": 820,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 49
+    },
+    {
+      "before_pdf_page": 983,
+      "after_pdf_page": 984,
+      "printed_before": 978,
+      "printed_after": 980,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 53
+    },
+    {
+      "before_pdf_page": 1357,
+      "after_pdf_page": 1358,
+      "printed_before": 1355,
+      "printed_after": 1358,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 72
+    },
+    {
+      "before_pdf_page": 1498,
+      "after_pdf_page": 1499,
+      "printed_before": 1498,
+      "printed_after": 1500,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 80
+    },
+    {
+      "before_pdf_page": 1595,
+      "after_pdf_page": 1596,
+      "printed_before": 1596,
+      "printed_after": 1598,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 85
+    },
+    {
+      "before_pdf_page": 1667,
+      "after_pdf_page": 1668,
+      "printed_before": 1669,
+      "printed_after": 1672,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 90
+    },
+    {
+      "before_pdf_page": 1868,
+      "after_pdf_page": 1869,
+      "printed_before": 1872,
+      "printed_after": 1874,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 95
+    },
+    {
+      "before_pdf_page": 1941,
+      "after_pdf_page": 1942,
+      "printed_before": 1946,
+      "printed_after": 1948,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 96
+    },
+    {
+      "before_pdf_page": 1983,
+      "after_pdf_page": 1984,
+      "printed_before": 1989,
+      "printed_after": 1992,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 98
+    },
+    {
+      "before_pdf_page": 2018,
+      "after_pdf_page": 2019,
+      "printed_before": 2026,
+      "printed_after": 2028,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 99
+    },
+    {
+      "before_pdf_page": 2063,
+      "after_pdf_page": 2064,
+      "printed_before": 2072,
+      "printed_after": 2074,
+      "note": "Printed numbering jumps at a chapter boundary in the supplied PDF. These may be omitted section-divider or blank pages; no missing content was fabricated.",
+      "at_chapter_start": true,
+      "next_chapter": 101
+    }
+  ],
+  "note": "Printed labels are extracted from page-number font spans. PDF page numbers remain the canonical course citations."
+}

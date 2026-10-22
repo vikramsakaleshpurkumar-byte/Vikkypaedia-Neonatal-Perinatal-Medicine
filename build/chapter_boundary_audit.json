@@ -1,0 +1,632 @@
+[
+  {
+    "num": 1,
+    "pdf_start": 21,
+    "title": "Growth of Neonatal-Perinatal Medicine\u2014A Historical Perspective",
+    "title_match": true
+  },
+  {
+    "num": 2,
+    "pdf_start": 39,
+    "title": "Epidemiology for Neonatologists",
+    "title_match": true
+  },
+  {
+    "num": 3,
+    "pdf_start": 47,
+    "title": "Big Data for the Smallest Patients\u2014What We Can Learn From Neonatal Database Research",
+    "title_match": true
+  },
+  {
+    "num": 4,
+    "pdf_start": 58,
+    "title": "Medical Ethics in Neonatal Care",
+    "title_match": true
+  },
+  {
+    "num": 5,
+    "pdf_start": 84,
+    "title": "Improving the Quality, Safety, and Equity of Neonatal Intensive Care for Infants and Families",
+    "title_match": true
+  },
+  {
+    "num": 6,
+    "pdf_start": 119,
+    "title": "Importance of Simulation in Neonatology",
+    "title_match": true
+  },
+  {
+    "num": 7,
+    "pdf_start": 127,
+    "title": "Perinatal and Neonatal Care in Developing Countries",
+    "title_match": true
+  },
+  {
+    "num": 8,
+    "pdf_start": 150,
+    "title": "Social and Economic Contributors to Neonatal Outcome in the United States",
+    "title_match": true
+  },
+  {
+    "num": 9,
+    "pdf_start": 167,
+    "title": "Genetic Aspects of Perinatal Disease and Prenatal Diagnosis",
+    "title_match": true
+  },
+  {
+    "num": 10,
+    "pdf_start": 188,
+    "title": "Perinatal Ultrasound",
+    "title_match": true
+  },
+  {
+    "num": 11,
+    "pdf_start": 229,
+    "title": "Estimation of Fetal Well-Being",
+    "title_match": true
+  },
+  {
+    "num": 12,
+    "pdf_start": 243,
+    "title": "Surgical Treatment of the Fetus",
+    "title_match": true
+  },
+  {
+    "num": 13,
+    "pdf_start": 257,
+    "title": "Adverse Exposures to the Fetus",
+    "title_match": true
+  },
+  {
+    "num": 14,
+    "pdf_start": 276,
+    "title": "Fetal Growth Restriction-A Complex Interplay Between the Intrauterine and Maternal Environment",
+    "title_match": true
+  },
+  {
+    "num": 15,
+    "pdf_start": 291,
+    "title": "Developmental Origins of Health and Disease",
+    "title_match": true
+  },
+  {
+    "num": 16,
+    "pdf_start": 305,
+    "title": "Hypertensive Disorders of Pregnancy",
+    "title_match": true
+  },
+  {
+    "num": 17,
+    "pdf_start": 322,
+    "title": "Pregnancy Complicated by Diabetes Mellitus",
+    "title_match": true
+  },
+  {
+    "num": 18,
+    "pdf_start": 333,
+    "title": "Obstetric Management of Prematurity",
+    "title_match": true
+  },
+  {
+    "num": 19,
+    "pdf_start": 367,
+    "title": "Fetal Effects of Autoimmune Disease",
+    "title_match": true
+  },
+  {
+    "num": 20,
+    "pdf_start": 376,
+    "title": "Multiple Gestation-Fetal and Maternal Considerations",
+    "title_match": true
+  },
+  {
+    "num": 21,
+    "pdf_start": 388,
+    "title": "Post-Term Pregnancy",
+    "title_match": true
+  },
+  {
+    "num": 22,
+    "pdf_start": 396,
+    "title": "Immune and Nonimmune Hydrops Fetalis",
+    "title_match": true
+  },
+  {
+    "num": 23,
+    "pdf_start": 411,
+    "title": "Amniotic Fluid Volume",
+    "title_match": true
+  },
+  {
+    "num": 24,
+    "pdf_start": 429,
+    "title": "Perinatal Infections and Chorioamnionitis",
+    "title_match": true
+  },
+  {
+    "num": 25,
+    "pdf_start": 440,
+    "title": "Placental Pathology",
+    "title_match": true
+  },
+  {
+    "num": 26,
+    "pdf_start": 448,
+    "title": "Anesthesia for Labor and Delivery",
+    "title_match": true
+  },
+  {
+    "num": 27,
+    "pdf_start": 467,
+    "title": "Physical Examination of the Healthy Newborn",
+    "title_match": true
+  },
+  {
+    "num": 28,
+    "pdf_start": 489,
+    "title": "Birth Injuries",
+    "title_match": true
+  },
+  {
+    "num": 29,
+    "pdf_start": 518,
+    "title": "Congenital Anomalies",
+    "title_match": true
+  },
+  {
+    "num": 30,
+    "pdf_start": 543,
+    "title": "Overview and Initial Management of Delivery Room Resuscitation",
+    "title_match": true
+  },
+  {
+    "num": 31,
+    "pdf_start": 558,
+    "title": "Role of Positive Pressure Ventilation in Neonatal Resuscitation",
+    "title_match": true
+  },
+  {
+    "num": 32,
+    "pdf_start": 572,
+    "title": "Oxygen Therapy in Neonatal Resuscitation",
+    "title_match": true
+  },
+  {
+    "num": 33,
+    "pdf_start": 582,
+    "title": "Chest Compression, Medications, and Special Problems in Neonatal Resuscitation",
+    "title_match": true
+  },
+  {
+    "num": 34,
+    "pdf_start": 595,
+    "title": "Role of Umbilical Cord Management in Neonatal Resuscitation",
+    "title_match": true
+  },
+  {
+    "num": 35,
+    "pdf_start": 605,
+    "title": "Thermal Environment of the Intensive Care Nursery",
+    "title_match": true
+  },
+  {
+    "num": 36,
+    "pdf_start": 615,
+    "title": "Optimization of the Neonatal Intensive Care Unit Environment",
+    "title_match": true
+  },
+  {
+    "num": 37,
+    "pdf_start": 631,
+    "title": "Neonatal Cardiorespiratory Monitoring",
+    "title_match": true
+  },
+  {
+    "num": 38,
+    "pdf_start": 643,
+    "title": "Diagnostic Imaging of the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 39,
+    "pdf_start": 674,
+    "title": "Anesthesia in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 40,
+    "pdf_start": 696,
+    "title": "Care of Periviable Micropreemies- The Japanese Perspective",
+    "title_match": true
+  },
+  {
+    "num": 41,
+    "pdf_start": 713,
+    "title": "The Late Preterm Infant",
+    "title_match": true
+  },
+  {
+    "num": 42,
+    "pdf_start": 729,
+    "title": "Nutritional Support for the Preterm Infant",
+    "title_match": true
+  },
+  {
+    "num": 43,
+    "pdf_start": 748,
+    "title": "Support for the Family",
+    "title_match": true
+  },
+  {
+    "num": 44,
+    "pdf_start": 761,
+    "title": "Perinatal Palliative Care",
+    "title_match": true
+  },
+  {
+    "num": 45,
+    "pdf_start": 773,
+    "title": "Principles of Drug Use in the Fetus and Neonate",
+    "title_match": true
+  },
+  {
+    "num": 46,
+    "pdf_start": 787,
+    "title": "Principles of Drug Use During Lactation",
+    "title_match": true
+  },
+  {
+    "num": 47,
+    "pdf_start": 793,
+    "title": "Pharmacokinetics in Neonatal Medicine",
+    "title_match": true
+  },
+  {
+    "num": 48,
+    "pdf_start": 809,
+    "title": "Infants of Substance-Using Mothers",
+    "title_match": true
+  },
+  {
+    "num": 49,
+    "pdf_start": 825,
+    "title": "Developmental Immunology",
+    "title_match": true
+  },
+  {
+    "num": 50,
+    "pdf_start": 862,
+    "title": "Postnatal Bacterial Infections",
+    "title_match": true
+  },
+  {
+    "num": 51,
+    "pdf_start": 886,
+    "title": "Fungal and Protozoal Infections of the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 52,
+    "pdf_start": 922,
+    "title": "Viral Infections in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 53,
+    "pdf_start": 984,
+    "title": "Normal and Abnormal Brain Development",
+    "title_match": true
+  },
+  {
+    "num": 54,
+    "pdf_start": 1015,
+    "title": "Cerebral White Matter Damage and Encephalopathy of Prematurity",
+    "title_match": true
+  },
+  {
+    "num": 55,
+    "pdf_start": 1037,
+    "title": "Intracranial Hemorrhage and Stroke in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 56,
+    "pdf_start": 1063,
+    "title": "Hypoxic-Ischemic Encephalopathy",
+    "title_match": true
+  },
+  {
+    "num": 57,
+    "pdf_start": 1089,
+    "title": "Seizures in Neonates",
+    "title_match": true
+  },
+  {
+    "num": 58,
+    "pdf_start": 1121,
+    "title": "Hypotonia and Neuromuscular Disease in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 59,
+    "pdf_start": 1136,
+    "title": "Disorders in Head Shape and Size",
+    "title_match": true
+  },
+  {
+    "num": 60,
+    "pdf_start": 1149,
+    "title": "Spinal Dysraphisms",
+    "title_match": true
+  },
+  {
+    "num": 61,
+    "pdf_start": 1158,
+    "title": "Hearing Loss in the Newborn Infant",
+    "title_match": true
+  },
+  {
+    "num": 62,
+    "pdf_start": 1169,
+    "title": "Early Childhood Neurodevelopmental Outcomes of High-Risk Neonates",
+    "title_match": true
+  },
+  {
+    "num": 63,
+    "pdf_start": 1192,
+    "title": "Lung Development and Maturation",
+    "title_match": true
+  },
+  {
+    "num": 64,
+    "pdf_start": 1212,
+    "title": "Assessment of Neonatal Pulmonary Function",
+    "title_match": true
+  },
+  {
+    "num": 65,
+    "pdf_start": 1228,
+    "title": "Respiratory Distress Syndrome in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 66,
+    "pdf_start": 1242,
+    "title": "Assisted Ventilation and Its Complications",
+    "title_match": true
+  },
+  {
+    "num": 67,
+    "pdf_start": 1273,
+    "title": "Spectrum of Neonatal Respiratory Disorders",
+    "title_match": true
+  },
+  {
+    "num": 68,
+    "pdf_start": 1306,
+    "title": "Apnea, Bradycardia, Hypoxemia, and the Foundation of Respiratory Control",
+    "title_match": true
+  },
+  {
+    "num": 69,
+    "pdf_start": 1319,
+    "title": "Upper Airway Lesions in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 70,
+    "pdf_start": 1332,
+    "title": "Bronchopulmonary Dysplasia in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 71,
+    "pdf_start": 1348,
+    "title": "Postneonatal Respiratory Morbidity",
+    "title_match": true
+  },
+  {
+    "num": 72,
+    "pdf_start": 1358,
+    "title": "Cardiac Embryology",
+    "title_match": true
+  },
+  {
+    "num": 73,
+    "pdf_start": 1372,
+    "title": "Pulmonary Vascular Development",
+    "title_match": true
+  },
+  {
+    "num": 74,
+    "pdf_start": 1387,
+    "title": "Prenatal Diagnosis of Congenital Heart Disease",
+    "title_match": true
+  },
+  {
+    "num": 75,
+    "pdf_start": 1401,
+    "title": "Patent Ductus Arteriosus",
+    "title_match": true
+  },
+  {
+    "num": 76,
+    "pdf_start": 1411,
+    "title": "Congenital Defects of the Cardiovascular System",
+    "title_match": true
+  },
+  {
+    "num": 77,
+    "pdf_start": 1433,
+    "title": "Unique Neonatal Cardiovascular Problems",
+    "title_match": true
+  },
+  {
+    "num": 78,
+    "pdf_start": 1452,
+    "title": "Disorders of Cardiac Rhythm and Conduction in Newborns",
+    "title_match": true
+  },
+  {
+    "num": 79,
+    "pdf_start": 1470,
+    "title": "Neonatal Management of Congenital Heart Disease",
+    "title_match": true
+  },
+  {
+    "num": 80,
+    "pdf_start": 1499,
+    "title": "The Hemostatic System",
+    "title_match": true
+  },
+  {
+    "num": 81,
+    "pdf_start": 1519,
+    "title": "Red Blood Cell Disorders in the Fetus and Neonate",
+    "title_match": true
+  },
+  {
+    "num": 82,
+    "pdf_start": 1552,
+    "title": "White Blood Cells and Immune Disorders",
+    "title_match": true
+  },
+  {
+    "num": 83,
+    "pdf_start": 1565,
+    "title": "Neoplasms in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 84,
+    "pdf_start": 1571,
+    "title": "Blood Component Therapy for the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 85,
+    "pdf_start": 1596,
+    "title": "Development of the Neonatal Gastrointestinal Tract",
+    "title_match": true
+  },
+  {
+    "num": 86,
+    "pdf_start": 1603,
+    "title": "Gastrointestinal Reflux and Motility in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 87,
+    "pdf_start": 1613,
+    "title": "Disorders of Digestion in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 88,
+    "pdf_start": 1624,
+    "title": "Selected Gastrointestinal Anomalies in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 89,
+    "pdf_start": 1651,
+    "title": "Neonatal Necrotizing Enterocolitis",
+    "title_match": true
+  },
+  {
+    "num": 90,
+    "pdf_start": 1668,
+    "title": "Disorders of Carbohydrate Metabolism in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 91,
+    "pdf_start": 1693,
+    "title": "Disorders of Calcium, Phosphorus, and Magnesium Metabolism in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 92,
+    "pdf_start": 1724,
+    "title": "Thyroid Disorders in the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 93,
+    "pdf_start": 1746,
+    "title": "Disorders of Sex Development",
+    "title_match": true
+  },
+  {
+    "num": 94,
+    "pdf_start": 1786,
+    "title": "Inborn Errors of Metabolism",
+    "title_match": true
+  },
+  {
+    "num": 95,
+    "pdf_start": 1869,
+    "title": "Neonatal Jaundice and Liver Disease",
+    "title_match": true
+  },
+  {
+    "num": 96,
+    "pdf_start": 1942,
+    "title": "Fluid, Electrolytes, and Acid-Base Homeostasis",
+    "title_match": true
+  },
+  {
+    "num": 97,
+    "pdf_start": 1960,
+    "title": "The Kidney and Urinary Tract of the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 98,
+    "pdf_start": 1984,
+    "title": "The Skin of the Neonate",
+    "title_match": true
+  },
+  {
+    "num": 99,
+    "pdf_start": 2019,
+    "title": "Examination and Common Problems in the Neonatal Eye",
+    "title_match": true
+  },
+  {
+    "num": 100,
+    "pdf_start": 2055,
+    "title": "Retinopathy of Prematurity",
+    "title_match": true
+  },
+  {
+    "num": 101,
+    "pdf_start": 2064,
+    "title": "Musculoskeletal Disorders in Neonates",
+    "title_match": true
+  },
+  {
+    "num": 102,
+    "pdf_start": 2072,
+    "title": "Bone and Joint Infections in Neonates",
+    "title_match": true
+  },
+  {
+    "num": 103,
+    "pdf_start": 2078,
+    "title": "Congenital Abnormalities of the Upper and Lower Extremities and Spine",
+    "title_match": true
+  },
+  {
+    "num": 104,
+    "pdf_start": 2099,
+    "title": "Therapeutic Agents",
+    "title_match": true
+  },
+  {
+    "num": 105,
+    "pdf_start": 2108,
+    "title": "Tables of Normal Values",
+    "title_match": true
+  }
+]
